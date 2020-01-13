@@ -1,4 +1,4 @@
-library(ggnet)
+library(GGally)
 library(network)
 library(sna)
 library(ggplot2)
